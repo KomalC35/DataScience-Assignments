@@ -1,2 +1,1 @@
-# DataScience B51
--Assignments
+# DataScience B51 - Assignments
